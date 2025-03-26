@@ -85,7 +85,7 @@ Services communicate asynchronously through events published to AWS SNS topics:
 
 ## Development Setup
 
-##From here on it's under construction
+## From here on it's under construction
 
 ### Prerequisites
 
